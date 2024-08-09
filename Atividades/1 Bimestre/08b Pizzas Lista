@@ -1,1 +1,43 @@
+<!DOCTYPE html>
+<br lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body style="color: maroon; margin-left:20%;margin-right:20%;">
+<br style="color: maroon; margin-left:20%;margin-right:20%;">
+    <h2> <font face = "Arial"> Pizza</font></h2>
+    <hr color="maroon">
+    <font face="Verdana" size:2>
+    — Pizza é uma preparação culinária que consiste em um disco de massa fermentada de farinha de trigo, regado com 
+    molho de tomates e coberto com ingredientes variados que normalmente incluem algum tipo de queijo, carnes 
+    preparadas ou defumadas e ervas, normalmente orégano ou manjericão, tudo assado em forno.</font>
+    <h3><font face = "Arial">Alguns tipos e sabores</font></h3>
+    <hr color="maroon">
+    
+    A variedade de coberturas que se pode colocar sobre uma pizza é quase Infinita, entretanto, algumas 
+    preparações são tradicionais e têm fiéis seguidores: <br><br>
+    <ul>
+        <li>Margherita</li>
+        <li>Mussarela</li>
+        <li>Portuguesa</li>
+        <li>Calabresa</li>
+        <li>Toscana</li>
+        <li>Pepperoni</li>
+        <li>Quatro queijos</li>
+        <li>Pomodoro</li>
+    </ul>
 
+    <h3><font face="Arial">Fontes</font></h3>
+    <hr color="maroon">
+    <ol>
+        <li>http://en.wikipedia.org/wiki/History_of_pizza</li>
+        <li>http://pt.wikipedia.org/wiki/Pizza</li>
+        <li>http://www.pizza.it</li>
+    </ol>
+    </font> 
+
+    <p align ="center"><font size:1>www.pizzaonline.com.br</font></p>
+</body>
+</html>
